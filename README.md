@@ -1,5 +1,7 @@
 # Repo Validate - Now
 
+- Amamos códigos
+
 - Criar pr auto agora
 
 - Outro edit
